@@ -21,4 +21,5 @@ Toinen ongelma, jota en onnistunut korjaamaan tuli ajastuksen kanssa. Kun käyti
 ## Linkkejä käytettäviin verkkosivuihin
 
 <a href="https://mailtrap.io">Mailtrap</a>
+<br>
 <a href="https://openweathermap.org/">Open Weather Map</a>
